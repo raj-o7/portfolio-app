@@ -2,6 +2,10 @@
 
 A Next.js portfolio built to make projects the focus, not the resume. Includes an AI assistant that answers questions from the portfolio's own data only (never invents anything), a job-fit analyzer, live GitHub stats, a recruiter-mode condensed view, and per-project case-study deep dives.
 
+![Ask My Portfolio answering a question about AI-related work](docs/demo.gif)
+
+**[Live demo](https://portfolio-app-07-fb5a.vercel.app)**
+
 ## Tech stack
 
 Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 · shadcn/ui (Base UI primitives) · Framer Motion · Anthropic API (optional) · GitHub REST API
